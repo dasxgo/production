@@ -1,2 +1,2 @@
 # Production
-Config for work machine learning
+Folders and files config for machine learning
